@@ -37,5 +37,11 @@ Las demas opciones se usan para navegar dentro de los libros agregados.
 
 ## Ejecutando las pruebas ⚙️
 ![image](https://github.com/jer0r0/bookShelf/assets/97175757/d68846c3-e55a-4ce9-89dd-23eee24ea01b)
-los libros agregados en mi base de datos 
+
+los libros agregados en mi base de datos. 
+
+![image](https://github.com/jer0r0/bookShelf/assets/97175757/9372966b-d71c-49c2-a4e3-bd75e56ce613)
+
+Los autores y sus diferentes libros. 
+
 
