@@ -1,4 +1,4 @@
-#BOOKSHELf
+# BOOKSHELF
 
 _Este es un proyecto que usa la api de gutendex [https://gutendex.com/] y podemos traer los libro que queramos siempre que esten dentro de la api _
 
